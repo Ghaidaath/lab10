@@ -24,6 +24,13 @@ task2:
 
 task3:
 
+<img width="960" height="540" alt="2025-11-17 (7)" src="https://github.com/user-attachments/assets/5d367d3c-839e-45be-9201-f1d9fe3322d0" />
+
+<img width="960" height="540" alt="2025-11-17 (8)" src="https://github.com/user-attachments/assets/f0c5cfd9-adec-4eb5-b6cf-7d0ea4972983" />
+
+<img width="960" height="540" alt="2025-11-17 (9)" src="https://github.com/user-attachments/assets/5502a51e-c43e-47d7-b5d4-85e9a0beffea" />
+
+<img width="960" height="540" alt="2025-11-17 (10)" src="https://github.com/user-attachments/assets/33e21bac-2003-481f-9d72-52fc3be1cf99" />
 
 
 task4:
