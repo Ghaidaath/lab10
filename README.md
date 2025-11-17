@@ -13,6 +13,13 @@ task1:
 
 task2:
 
+<img width="960" height="540" alt="2025-11-17 (3)" src="https://github.com/user-attachments/assets/912cba19-29d3-4289-8097-6514a6c42f24" />
+
+<img width="960" height="540" alt="2025-11-17 (4)" src="https://github.com/user-attachments/assets/ece77746-dac9-4fec-83a0-9d625fe8518b" />
+
+<img width="960" height="540" alt="2025-11-17 (5)" src="https://github.com/user-attachments/assets/b6f620e4-f872-4f0d-803f-3a88f9a9ca33" />
+
+<img width="960" height="540" alt="2025-11-17 (6)" src="https://github.com/user-attachments/assets/5665edd2-b1ff-47d5-9548-b3e8560aa7f7" />
 
 
 task3:
