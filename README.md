@@ -35,8 +35,13 @@ task3:
 
 task4:
 
+<img width="960" height="540" alt="2025-11-17 (11)" src="https://github.com/user-attachments/assets/bcb64c2d-cb6f-4324-9d63-6fdcb90840ba" />
 
+<img width="960" height="540" alt="2025-11-17 (12)" src="https://github.com/user-attachments/assets/c9d57da6-2f80-4ee0-8a9b-6860ff509a45" />
 
+<img width="960" height="540" alt="2025-11-17 (13)" src="https://github.com/user-attachments/assets/3d139a4d-993c-4ecd-a6bc-cf2f07984538" />
+
+<img width="960" height="540" alt="2025-11-17 (14)" src="https://github.com/user-attachments/assets/7428ede3-70d1-4c6f-9706-4ca436b6672a" />
 
 
 part2:
