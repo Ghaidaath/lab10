@@ -59,6 +59,9 @@ task2:
 
 task3:
 
+<img width="960" height="540" alt="2025-11-18 (3)" src="https://github.com/user-attachments/assets/1abe9bbc-0147-4d02-ad5e-b33c182c9f1f" />
+
+<img width="960" height="540" alt="2025-11-18 (4)" src="https://github.com/user-attachments/assets/d839d4f3-8d34-47f4-8927-1a0088e9af89" />
 
 
 task4:
