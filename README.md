@@ -48,11 +48,13 @@ part2:
 
 task1:
 
+<img width="960" height="540" alt="2025-11-18 (1)" src="https://github.com/user-attachments/assets/f3e9bc74-813c-48b5-9c38-fd411ddfff31" />
 
 
 
 task2:
 
+<img width="960" height="540" alt="2025-11-18" src="https://github.com/user-attachments/assets/645229de-c2de-4c3c-8148-3f3a4b91c9d8" />
 
 
 task3:
