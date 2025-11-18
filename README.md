@@ -66,3 +66,7 @@ task3:
 
 task4:
 
+<img width="960" height="540" alt="2025-11-18 (5)" src="https://github.com/user-attachments/assets/f49c7d8b-2748-4db4-addf-fb297c38525c" />
+
+<img width="960" height="540" alt="2025-11-18 (6)" src="https://github.com/user-attachments/assets/b1b62696-7ce7-4558-b3d9-10c8f3dbc066" />
+
