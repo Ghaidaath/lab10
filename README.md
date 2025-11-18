@@ -48,7 +48,7 @@ part2:
 
 task1:
 
-<img width="960" height="540" alt="2025-11-18 (1)" src="https://github.com/user-attachments/assets/f3e9bc74-813c-48b5-9c38-fd411ddfff31" />
+<img width="960" height="540" alt="2025-11-18 (2)" src="https://github.com/user-attachments/assets/2bcd2649-8cfc-4a83-93dd-c070da92e588" />
 
 
 
