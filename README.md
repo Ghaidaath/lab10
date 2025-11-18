@@ -45,6 +45,7 @@ task4:
 
 
 part2:
+
 <img width="960" height="540" alt="2025-11-18 (7)" src="https://github.com/user-attachments/assets/d830ce2b-dc7a-4359-9e84-e0358175473f" />
 
 task1:
